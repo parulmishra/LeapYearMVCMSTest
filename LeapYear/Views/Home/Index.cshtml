@@ -1,0 +1,18 @@
+<h1>Welcome to the Leap Year Detector Application</h1>
+
+<form  action="/calculate" method="get">
+	<label for="year" name="year">Please enter the year</label>	
+	<input value="" id="year" name="year" type="text">
+<button type="submit"> Submit</button>
+</form>
+@if(Model != null)
+{
+	@if(Model.IsLeapYear(Model.GetYear()) == true)
+	{
+		<p>Year you entered : @Model.GetYear() . Its a Leap Year</p>
+	}
+	else
+	{
+		<p>Year you entered : @Model.GetYear() . Its not a Leap Year</p>
+	}
+}

@@ -1,0 +1,8 @@
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.deps.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.runtimeconfig.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\bin\Debug\netcoreapp1.1\LeapYear.pdb
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear\obj\Debug\netcoreapp1.1\LeapYear.pdb

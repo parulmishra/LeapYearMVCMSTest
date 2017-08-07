@@ -1,0 +1,13 @@
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.deps.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.runtimeconfig.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.Tests.pdb
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\bin\Debug\netcoreapp1.1\LeapYear.pdb
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.dll
+C:\Users\amdubedy\desktop\LeapYear.Solution\LeapYear.tests\obj\Debug\netcoreapp1.1\LeapYear.Tests.pdb
